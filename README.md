@@ -30,7 +30,7 @@
 - zkEVM and zkWASM (Polygon zkEVM)
 
 ### Contact
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://twitter.com/4shutoshPathak), or [Email](ashutoshpathak@thenumbercrunch.com)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://twitter.com/4shutoshPathak), or email [ashutoshpathak@thenumbercrunch.com](mailto:ashutoshpathak@thenumbercrunch.com)
 - I have a beacons.ai link where you can find everything that I do. Just click [here](beacons.ai/ashutosh_pathak).
 - 📝 I also have a blog at [The Number Crunch](https://thenumbercrunch.com/) that I try to keep as up-to-date as possible.
 
