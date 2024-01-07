@@ -1,9 +1,10 @@
 ## 👋 Hi, I'm Ashutosh Pathak!
-- 👀 I’m a Machine Learning Engineer who is also a noob guitarist and a geopolitical enthusiast. I love Anime and my favorites include My Hero Academia, One Punch Man, and Attack on Titan.
+- 👀 I’m an aspiring Machine Learning Engineer who is also a noob guitarist and a geopolitical enthusiast. I love Anime and my favorites include My Hero Academia, One Punch Man, and Attack on Titan.
 - 🌏 I am always on the lookout for interesting geopolitical conversations, so don't be shy and hit me up if you also share this interest of mine!
-- 🌱 Currently, I am learning all things AI, Web 3.0, and full-stack.
+- 🌱 Currently, I am a Computer Science Grad student at George Mason University learning all things AI, Web 3.0, and full-stack.
 - 💞️ I’m also looking to collaborate on projects that expand my skillsets. This could be anything in the domains mentioned above.
-
+- 👨🏽‍🎓 My graduation date is in May 2024 so I'm looking for jobs as well; preferably with those organizations that can sponsor my visa for Machine Learning Engineer, Data Scientist, AI Engineer, or any related roles.
+  
 ### My skills
 #### 🤖 Machine Learning
 - Computer Vision
