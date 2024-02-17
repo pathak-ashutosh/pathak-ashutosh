@@ -34,6 +34,8 @@
 - I have a beacons.ai link where you can find everything that I do. Just click [here](beacons.ai/ashutosh_pathak).
 - 📝 I also have a blog at [The Number Crunch](https://thenumbercrunch.com/) that I try to keep as up-to-date as possible.
 
+[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathak-ashutosh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 pathak-ashutosh/pathak-ashutosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
