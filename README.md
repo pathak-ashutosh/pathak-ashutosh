@@ -30,7 +30,9 @@
 - zkEVM and zkWASM (Polygon zkEVM)
 
 [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathak-ashutosh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-ashutosh&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-ashutosh&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+
+Please refresh the page if you don't see the stats as expected.  
 
 ### Contact
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://twitter.com/4shutoshPathak), or email [ashutoshpathak@thenumbercrunch.com](mailto:ashutoshpathak@thenumbercrunch.com)
