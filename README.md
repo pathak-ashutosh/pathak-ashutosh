@@ -39,7 +39,7 @@ Please refresh the page if you don't see the stats as expected.
 - I have a beacons.ai link where you can find everything that I do. Just click [here](beacons.ai/ashutosh_pathak).
 - 📝 I also have a blog at [The Number Crunch](https://thenumbercrunch.com/) that I try to keep as up-to-date as possible.
 
-
+If you love my work and want to support me, you can [buy me a coffee](https://www.buymeacoffee.com/ashutosh_pathak) ☕️
 
 <!---
 pathak-ashutosh/pathak-ashutosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
