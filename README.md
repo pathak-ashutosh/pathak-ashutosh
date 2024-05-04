@@ -6,28 +6,16 @@
 - 👨🏽‍🎓 My graduation date is in May 2024 so I'm looking for jobs as well; preferably with those organizations that can sponsor my visa for Machine Learning Engineer, Data Scientist, AI Engineer, or any related roles.
   
 ### My skills
-#### 🤖 Machine Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Generative AI
-- Python, Java, C#, Javascript, and many more..
-- PySpark (Apache Spark)
-- MySQL
-- AWS EC2, S3, EMR
-  
-#### 👨🏽‍💻 Full-Stack
-- Node.js, Express.js, Material UI
-- React, Redux Toolkit, Axios
-- NextJS
-- Postman
-  
-#### 🔗 Web 3.0
-- Blockchain (L1, L2 chains)
-- Bitcoin, Ethereum 2.0, Polygon
-- Hardhat, Solidity
-- Zero-knowledge Proofs
-- zkEVM and zkWASM (Polygon zkEVM)
+
+| 🤖 Machine Learning | 👨🏽‍💻 Web 2.0     | 🔗 Web 3.0       |
+| :---------------: | :--------------: | :--------------: |
+| Python            | Node.js          | L1 and L2 chains |
+| PySpark           | Express.js       | Bitcoin          |
+| MySQL             | Material UI      | Ethereum 2.0     |
+| Tableau           | React            | Polygon          |
+| PyTorch           | Redux Toolkit    | Hardhat, Solidity|
+| AWS (EC2, S3, EMR)| Postman          | zkEVM and zkWASM |
+
 
 [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathak-ashutosh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-ashutosh&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
