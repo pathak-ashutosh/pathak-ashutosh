@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Ashutosh Pathak!
 - 👀 I’m an aspiring Machine Learning Engineer who is also a noob guitarist and a geopolitical enthusiast. I love Anime and my favorites include My Hero Academia, One Punch Man, and Attack on Titan.
+- 🌱 Currently, I am building HiveHaven - an accommodation solution for international students in the US. Other than this, I am also actively researching on LLM uncertainity and how it can impact real human lives when applied in healthcare.
 - 🌏 I am always on the lookout for interesting geopolitical conversations, so don't be shy and hit me up if you also share this interest of mine!
-- 🌱 Currently, I am a Computer Science Grad student at George Mason University learning all things AI, Web 3.0, and full-stack.
-- 💞️ I’m also looking to collaborate on projects that expand my skillsets. This could be anything in the domains mentioned above.
-- 👨🏽‍🎓 My graduation date is in May 2024 so I'm looking for jobs as well; preferably with those organizations that can sponsor my visa for Machine Learning Engineer, Data Scientist, AI Engineer, or any related roles.
+- 💞️ I’m also looking to collaborate on projects that expand my skillsets. This could be literally anything in software and hardware/robotics that catches my interest.
+- 👨🏽‍🎓 I recently graduated with a Masters in Computer Science concentrating in Machine Learning with a 3.7 GPA. I am specialized in using classical machine learning approaches as well as pretraining and finetuning LLMs.
   
 ### My skills
 
