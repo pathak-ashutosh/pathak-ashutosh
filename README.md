@@ -1,10 +1,11 @@
 ## 👋 Hi, I'm Ashutosh Pathak!
-- 👀 I’m an aspiring Machine Learning Engineer who is also a noob guitarist and a geopolitical enthusiast. I love Anime and my favorites include My Hero Academia, One Punch Man, and Attack on Titan.
-- 🌱 Currently, I am building HiveHaven - an accommodation solution for international students in the US. Other than this, I am also actively researching on LLM uncertainity and how it can impact real human lives when applied in healthcare.
-- 🌏 I am always on the lookout for interesting geopolitical conversations, so don't be shy and hit me up if you also share this interest of mine!
-- 💞️ I’m also looking to collaborate on projects that expand my skillsets. This could be literally anything in software and hardware/robotics that catches my interest.
-- 👨🏽‍🎓 I recently graduated with a Masters in Computer Science concentrating in Machine Learning with a 3.7 GPA. I am specialized in using classical machine learning approaches as well as pretraining and finetuning LLMs.
-  
+- 👀 I’m an aspiring *Machine Learning Engineer* who is also a *noob guitarist* and a *geopolitical enthusiast*. *I love Anime* and my favorites include My Hero Academia, One Punch Man, and Attack on Titan.
+- 🌱 Currently, I am building *HiveHaven* - an accommodation solution for international students in the US. Other than this, I am also actively researching on *LLM uncertainity* and how it can impact real human lives when applied in healthcare.
+- 🌏 I am always on the *lookout for interesting geopolitical conversations*, so don't be shy and hit me up if you also share this interest of mine!
+- 💞️ I’m also *looking to collaborate* on projects that expand my skillsets. This could be literally anything in software and hardware/robotics that catches my interest.
+- 👨🏽‍🎓 I recently graduated with a Masters in Computer Science concentrating in Machine Learning with a 3.7 GPA. I am specialized in using classical machine learning approaches as well as Computer Vision and NLP (including LLMs).
+- 👨🏽‍💻 That said, **I am looking for jobs in Data and AI domains**. Hit me up if you find my profile interesting! You'll find my socials at the bottom of this document.
+
 ### My skills
 
 | 🤖 Machine Learning | 👨🏽‍💻 Web 2.0     | 🔗 Web 3.0       |
