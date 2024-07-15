@@ -11,9 +11,9 @@
 | 🤖 Machine Learning | 👨🏽‍💻 Web 2.0     | 🔗 Web 3.0       |
 | :---------------: | :--------------: | :--------------: |
 | Python            | Node.js          | L1 and L2 chains |
-| PySpark           | Express.js       | Bitcoin          |
-| MySQL             | Material UI      | Ethereum 2.0     |
-| Tableau           | React            | Polygon          |
+| PySpark           | ReactJS          | Bitcoin          |
+| SQL               | NextJS           | Ethereum 2.0     |
+| Tableau           | TailwindCSS      | Polygon          |
 | PyTorch           | Redux Toolkit    | Hardhat, Solidity|
 | AWS (EC2, S3, EMR)| Postman          | zkEVM and zkWASM |
 
