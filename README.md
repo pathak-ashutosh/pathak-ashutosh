@@ -17,18 +17,17 @@
 | PyTorch           | Redux Toolkit    | Hardhat, Solidity|
 | AWS (EC2, S3, EMR)| Postman          | zkEVM and zkWASM |
 
-
-[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathak-ashutosh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-ashutosh&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-
-Please refresh the page if you don't see the stats as expected.  
-
 ### Contact
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://twitter.com/4shutoshPathak), or email [ashutoshpathak@thenumbercrunch.com](mailto:ashutoshpathak@thenumbercrunch.com)
 - I have a beacons.ai link where you can find everything that I do. Just click [here](beacons.ai/ashutosh_pathak).
 - 📝 I also have a blog at [The Number Crunch](https://thenumbercrunch.com/) that I try to keep as up-to-date as possible.
 
 If you love my work and want to support me, you can [buy me a coffee](https://www.buymeacoffee.com/ashutosh_pathak) ☕️
+
+[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathak-ashutosh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-ashutosh&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+
+Please refresh the page if you don't see the stats as expected.  
 
 <!---
 pathak-ashutosh/pathak-ashutosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
