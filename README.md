@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ashutosh Pathak!
 - 👀 I’m an experienced *Machine Learning Engineer*, an *AI Consultant*, a *Corporate Trainer*, and a *Software Engineer*.
-- 🌱 I build, deploy, and optimize entire ML pipelines, write proposals for AI projects, and share my findings on my blog, [The Number Crunch].(https://thenumbercrunch.com/).
+- 🌱 I build, deploy, and optimize entire ML pipelines, write proposals for AI projects, and share my findings on my blog, [The Number Crunch](https://thenumbercrunch.com/).
 - 🛠️ When I am not working, I am busy building *HiveHaven* - an accommodation solution for international students in the US.
 - 🌏 I am always on the *lookout for interesting geopolitical conversations*, so don't be shy and hit me up if you also share this interest of mine!
 - 💞️ I’m also *looking to collaborate* on projects that expand my skillsets. This could be literally anything in software and hardware/robotics that catches my interest.
