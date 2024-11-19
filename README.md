@@ -9,13 +9,13 @@
 
 ### My skills
 
-**Languages**: Python, C, C++, Java, C#, JavaScript, SQL  
-**ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras  
-**LLM Tools**: Hugging Face Transformers, OpenAI API, LangChain, Pinecone, Neo4J   
-**Cloud Platforms**: AWS SageMaker, Amazon Bedrock, Google Cloud AI, Azure ML   
-**Big Data**: Apache Spark (PySpark), Hadoop (HDFS), Databricks, Postgres, Tableau   
-**Version Control**: Git, GitHub, DVC   
-**Containerization**: Docker, Kubernetes
+- **Languages**: Python, C, C++, Java, C#, JavaScript, SQL  
+- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras  
+- **LLM Tools**: Hugging Face Transformers, OpenAI API, LangChain, Pinecone, Neo4J   
+- **Cloud Platforms**: AWS SageMaker, Amazon Bedrock, Google Cloud AI, Azure ML   
+- **Big Data**: Apache Spark (PySpark), Hadoop (HDFS), Databricks, Postgres, Tableau   
+- **Version Control**: Git, GitHub, DVC   
+- **Containerization**: Docker, Kubernetes
 
 ### Contact
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://twitter.com/4shutoshPathak), or [email](mailto:ashutoshpathak@thenumbercrunch.com)
