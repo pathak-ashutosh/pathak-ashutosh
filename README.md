@@ -11,10 +11,10 @@
 
 **Languages**: Python, C, C++, Java, C#, JavaScript, SQL  
 **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras  
-**LLM Tools**: Hugging Face Transformers, OpenAI API, LangChain  
-**Cloud Platforms**: AWS SageMaker, Amazon Bedrock, Google Cloud AI, Azure ML  
-**Big Data**: Apache Spark (PySpark), Hadoop (HDFS), Databricks, Tableau  
-**Version Control**: Git, GitHub, DVC  
+**LLM Tools**: Hugging Face Transformers, OpenAI API, LangChain, Pinecone, Neo4J   
+**Cloud Platforms**: AWS SageMaker, Amazon Bedrock, Google Cloud AI, Azure ML   
+**Big Data**: Apache Spark (PySpark), Hadoop (HDFS), Databricks, Postgres, Tableau   
+**Version Control**: Git, GitHub, DVC   
 **Containerization**: Docker, Kubernetes
 
 ### Contact
