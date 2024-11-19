@@ -1,22 +1,21 @@
 ## 👋 Hi, I'm Ashutosh Pathak!
-- 👀 I’m an experienced *Machine Learning Engineer*, an *AI Consultant*, a *Corporate Trainer*, and a *Software Engineer*.
+- 👀 I’m an experienced *Machine Learning Engineer*, an *AI Consultant*, a *Corporate Trainer*, a *Software Engineer*, and an avid *Reader*.
+- 👨🏽‍🎓 I have a Masters in Computer Science with a concentration in Machine Learning. I am specialized in creating classical machine learning and deep learning solutions as well as Generative AI systems using Large Language Models (LLMs), Large Vision Models (LVMs), Large Multimodal Models (LMMs) and Retreival Augmented Generation (RAG).
 - 🌱 I build, deploy, and optimize entire ML pipelines, write proposals for AI projects, and share my findings on my blog, [The Number Crunch](https://thenumbercrunch.com/).
-- 🛠️ When I am not working, I am busy building *HiveHaven* - an accommodation solution for international students in the US.
-- 🌏 I am always on the *lookout for interesting geopolitical conversations*, so don't be shy and hit me up if you also share this interest of mine!
-- 💞️ I’m also *looking to collaborate* on projects that expand my skillsets. This could be literally anything in software and hardware/robotics that catches my interest.
-- 👨🏽‍🎓 I recently graduated with a Masters in Computer Science concentrating in Machine Learning with a 3.7 GPA. I am specialized in using classical machine learning approaches as well as Computer Vision and NLP (including LLMs).
-- 👨🏽‍💻 That said, **I am looking for jobs in Data and AI domains**. Hit me up if you find my profile interesting! You'll find my socials at the bottom of this document.
+- 📖 Currently, I am reading **Build a Large Language Model (From Scratch) by Sebastian Raschka** and next on my list is the **LLM Engineer's Handbook by Iusztin and Labonne**.
+- 🛠️ When I am not working or reading, I am busy building *HiveHaven* - an accommodation solution for international students in the US.
+- 🤝🏽 I’m  *looking to collaborate* on any interesting AI projects, as well as sharing my knowledge with your employees as a corporate trainer.
+- 👨🏽‍💻 That said, **I am open to roles in ML and GenAI domains**. Hit me up if you find my profile interesting! You'll find my socials at the bottom of this document.
 
 ### My skills
 
-| 🤖 Machine Learning | 👨🏽‍💻 Web 2.0     | 🔗 Web 3.0       |
-| :---------------: | :--------------: | :--------------: |
-| Python            | Node.js          | L1 and L2 chains |
-| PySpark           | ReactJS          | Bitcoin          |
-| SQL               | NextJS           | Ethereum 2.0     |
-| Tableau           | TailwindCSS      | Polygon          |
-| PyTorch           | Redux Toolkit    | Hardhat, Solidity|
-| AWS (EC2, S3, EMR)| Postman          | zkEVM and zkWASM |
+**Languages**: Python, C, C++, Java, C#, JavaScript, SQL
+**ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras
+**LLM Tools**: Hugging Face Transformers, OpenAI API, LangChain 
+**Cloud Platforms**: AWS SageMaker, Amazon Bedrock, Google Cloud AI, Azure ML 
+**Big Data**: Apache Spark (PySpark), Hadoop (HDFS), Databricks, Tableau
+**Version Control**: Git, GitHub, DVC 
+**Containerization**: Docker, Kubernetes
 
 ### Contact
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://twitter.com/4shutoshPathak), or email [ashutoshpathak@thenumbercrunch.com](mailto:ashutoshpathak@thenumbercrunch.com)
