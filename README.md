@@ -18,7 +18,7 @@
 - **Containerization**: Docker, Kubernetes
 
 ### Contact
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://twitter.com/4shutoshPathak), or [email](mailto:ashutoshpathak@thenumbercrunch.com)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://x.com/pathak_jeee), or [email](mailto:ashutoshpathak@thenumbercrunch.com)
 - 📊 You can find everything I do [here](beacons.ai/ashutosh_pathak).
 - 📝 I also have a blog at [The Number Crunch](https://thenumbercrunch.com/) that I try to keep as up-to-date as possible.
 
