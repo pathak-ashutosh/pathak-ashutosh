@@ -1,35 +1,39 @@
-## 👋 Hi, I'm Ashutosh Pathak!
-- 👀 I’m an experienced *Machine Learning Engineer*, an *AI Consultant*, a *Corporate Trainer*, a *Software Engineer*, and an avid *Reader*.
-- 👨🏽‍🎓 I have a Masters in Computer Science with a concentration in Machine Learning. I am specialized in creating classical machine learning and deep learning solutions as well as Generative AI systems using Large Language Models (LLMs), Large Vision Models (LVMs), Large Multimodal Models (LMMs) and Retreival Augmented Generation (RAG).
-- 🌱 I build, deploy, and optimize entire ML pipelines, write proposals for AI projects, and share my findings on my blog, [The Number Crunch](https://thenumbercrunch.com/).
-- 📖 Currently, I am reading **Build a Large Language Model (From Scratch) by Sebastian Raschka** and next on my list is the **LLM Engineer's Handbook by Iusztin and Labonne**.
-- 🛠️ When I am not working or reading, I am busy building *HiveHaven* - an accommodation solution for international students in the US.
-- 🤝🏽 I’m  *looking to collaborate* on any interesting AI projects, as well as sharing my knowledge with your employees as a corporate trainer.
-- 👨🏽‍💻 That said, **I am open to roles in ML and GenAI domains**. Hit me up if you find my profile interesting! You'll find my socials at the bottom of this document.
+## Ashutosh Pathak
 
-### My skills
+I work on large-scale machine learning systems, focusing on the design, training, and deployment of models that operate reliably under real-world conditions. My interests include large language models, multimodal architectures, retrieval-augmented generation, and the data/compute infrastructure required to support them.
 
-- **Languages**: Python, C, C++, Java, C#, JavaScript, SQL  
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras  
-- **LLM Tools**: Hugging Face Transformers, OpenAI API, LangChain, Pinecone, Neo4J   
-- **Cloud Platforms**: AWS SageMaker, Amazon Bedrock, Google Cloud AI, Azure ML   
-- **Big Data**: Apache Spark (PySpark), Hadoop (HDFS), Databricks, Postgres, Tableau   
-- **Version Control**: Git, GitHub, DVC   
-- **Containerization**: Docker, Kubernetes
+My work spans the entire lifecycle of modern ML systems: dataset construction, training pipelines, evaluation methodology, and inference optimization. I care about clarity in system design, reproducibility, and empirical rigor. I also build tools that make model behavior more interpretable and controllable.
+
+I hold a Bachelor's and Master’s in Computer Science (Machine Learning). I write about ML, systems, and experimentation at https://thenumbercrunch.com/. 
+
+Side projects include HiveHaven - a lightweight platform for international students seeking housing in the U.S., and PolNet - a data visualization tool for analyzing and visualizing U.S. congressional caucus memberships and political network data. 
+
+Current reading: “Build a Large Language Model (From Scratch)” by Sebastian Raschka.
+
+---
+
+### Focus areas
+
+Predictive Modeling, Large Language Models, Multimodal Models, Generative Modeling  
+Retrieval-Augmented Generation, Vector Search, Data-Centric Evaluation  
+Training Pipelines, MLOps, Distributed Systems, High-Throughput Inference
+
+---
+
+### Toolchain
+
+Javascript, Python, C/C++, C#, SQL  
+PyTorch, TensorFlow, Scikit-learn  
+LangChain, LangGraph, ElasticSearch, Neo4j  
+Apache Spark, Databricks, Hadoop (HDFS), Postgres, BigQuery  
+AWS SageMaker, Amazon Bedrock, Vertex AI, Azure ML  
+Docker, Kubernetes, Git, DVC
+
+---
 
 ### Contact
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pathak-ash/), [𝕏](https://x.com/pathak_jeee), or [email](mailto:ashutoshpathak@thenumbercrunch.com)
-- 📊 You can find everything I do [here](beacons.ai/ashutosh_pathak).
-- 📝 I also have a blog at [The Number Crunch](https://thenumbercrunch.com/) that I try to keep as up-to-date as possible.
 
-If you love my work and want to support me, you can [buy me a coffee](https://www.buymeacoffee.com/ashutosh_pathak) ☕️
-
-[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathak-ashutosh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-ashutosh&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-
-Please refresh the page if you don't see the stats as expected.  
-
-<!---
-pathak-ashutosh/pathak-ashutosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn: https://www.linkedin.com/in/pathak-ash/  
+X: https://x.com/pathak_jeee  
+Email: blah@thenumbercrunch.com  
+Writing: https://thenumbercrunch.com/
