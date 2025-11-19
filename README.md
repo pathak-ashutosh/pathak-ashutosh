@@ -35,5 +35,5 @@ Docker, Kubernetes, Git, DVC
 
 LinkedIn: https://www.linkedin.com/in/pathak-ash/  
 X: https://x.com/pathak_jeee  
-Email: blah@thenumbercrunch.com  
+Email: ashutoshpathak@thenumbercrunch.com  
 Writing: https://thenumbercrunch.com/
