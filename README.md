@@ -1,8 +1,8 @@
 ## Ashutosh Pathak
 
-I build production AI systems — LLM-powered pipelines, multi-agent architectures, and the infrastructure required to make them reliable at scale. My focus is on the full engineering stack: from evaluation frameworks and retrieval systems to deployment, observability, and latency-sensitive inference.
+I build production AI systems, LLM-powered pipelines, multi-agent architectures, and the infrastructure required to make them reliable at scale. My focus is on the full engineering stack: from evaluation frameworks and retrieval systems to deployment, observability, and latency-sensitive inference.
 
-I care about systems that actually work: well-defined failure modes, reproducible evaluation, and clean abstractions between components. Most of my recent work sits at the intersection of applied LLM engineering and data infrastructure — RAG systems, agentic workflows, and the tooling needed to iterate on them without breaking production.
+I care about systems that actually work: well-defined failure modes, reproducible evaluation, and clean abstractions between components. Most of my recent work sits at the intersection of applied LLM engineering and data infrastructure; RAG systems, agentic workflows, and the tooling needed to iterate on them without breaking production.
 
 I hold a Bachelor's and Master's in Computer Science (Concentration in Machine Learning). I write about ML systems, evaluation, and engineering decisions at https://thenumbercrunch.com/.
 
